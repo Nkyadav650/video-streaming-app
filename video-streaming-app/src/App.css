@@ -1,0 +1,17 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+}
+.stream-video{
+  text-align: center;
+  margin-bottom: 5%;
+}
+.video-list{
+  display: flex;
+  justify-content: start;
+  padding: 0%;
+  gap: 2%;
+}
+
